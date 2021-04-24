@@ -1,0 +1,6 @@
+STM32_IIC_LCD.c:17:19:LCD_init	48	static
+STM32_IIC_LCD.c:40:6:LCD_sendCommand	32	static
+STM32_IIC_LCD.c:52:6:LCD_sendData	32	static
+STM32_IIC_LCD.c:64:6:LCD_sendString	16	static
+STM32_IIC_LCD.c:69:6:LCD_clearDisplay	16	static
+STM32_IIC_LCD.c:74:6:LCD_setCursor	24	static
